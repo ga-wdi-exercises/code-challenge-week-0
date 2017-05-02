@@ -1,4 +1,7 @@
-# Code Challenge - 1/18/17
+# Week 1 Code Challenge
+
+<!-- Original by amaseda, Source:  -->
+<!-- https://gist.githubusercontent.com/amaseda/7a453edaab792a3b75a3be17cc507699/raw/fd8138de9ad8d072ee9fd4354f11e8a653980c78/code-challenge-011917.md -->
 
 Please select one of the following sections to complete this morning.
 * If you feel that you need to review the Command Line, start with the CLI exercises.
